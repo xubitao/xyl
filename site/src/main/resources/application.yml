@@ -11,7 +11,7 @@ tempUser:
 ---
 # You can change the default http port
 server:
-  port: 16721
+  port: 16725
   contextPath: /xyl
 
 logging:

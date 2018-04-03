@@ -83,7 +83,6 @@ configure(javaProjects) {
 
 configure(bootProjects) {
     apply plugin: 'spring-boot'
-    apply plugin: 'war'
     apply plugin: 'java'
     apply plugin: 'idea'
 }
